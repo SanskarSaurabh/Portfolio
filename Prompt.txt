@@ -1,0 +1,238 @@
+Build a fully professional premium animated portfolio website using React.js (Create React App only, do NOT use Vite). The website should look modern, futuristic, smooth, highly responsive, visually stunning, and production-ready like a premium SaaS product website combined with a modern developer/data analyst portfolio.
+
+TECH STACK:
+- React.js (Create React App)
+- Tailwind CSS
+- Framer Motion
+- GSAP
+- React Router DOM
+- React Icons
+- Lenis Smooth Scroll
+- EmailJS
+- React Type Animation
+- tsParticles
+
+WEBSITE THEME:
+- Dark futuristic UI
+- Glassmorphism design
+- Smooth premium animations
+- Neon glow effects
+- Interactive hover effects
+- Modern dashboard style
+- Fully responsive for desktop, tablet, and mobile
+
+COLOR PALETTE:
+- Background: #0f172a
+- Card Background: #111827
+- Accent Blue: #38bdf8
+- Secondary Purple: #8b5cf6
+- Text White: #f8fafc
+
+FONT:
+Use "Poppins" or "Space Grotesk" from Google Fonts.
+
+MAIN WEBSITE STRUCTURE:
+
+1. NAVBAR
+- Transparent navbar
+- Blur effect on scroll
+- Smooth scrolling navigation
+- Animated underline hover effect
+- Mobile hamburger menu
+- Sticky navbar
+- Social icons
+- Resume download button
+
+2. HERO SECTION
+Create a stunning hero section with:
+- Large animated heading
+- Name display
+- Animated typing effect
+- CTA buttons
+- Social media icons
+- Animated particles background
+- Floating glowing blobs
+- Mouse movement interaction
+- Scroll down indicator
+- Smooth fade and slide animations
+
+Hero Heading:
+"Turning Data Into Insights & Ideas Into Reality"
+
+Subheading:
+"Aspiring Data Analyst skilled in Python, SQL, Power BI, Tableau & React"
+
+Buttons:
+- View Projects
+- Download Resume
+- Contact Me
+
+3. ABOUT SECTION
+- Modern glassmorphism cards
+- Animated statistics counters
+- Smooth reveal animations
+- Personal introduction
+- Career goals
+- Skills overview
+
+Include cards like:
+- Projects Completed
+- Technologies Learned
+- Problem Solving
+- Dashboard Development
+
+4. SKILLS SECTION
+Create premium animated skill cards grouped into categories:
+
+Frontend:
+- React
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+
+Data Analytics:
+- Python
+- SQL
+- Power BI
+- Tableau
+- Excel
+
+Tools:
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+Animations:
+- Hover glow effect
+- Scale animation
+- Animated progress bars
+- Floating card animations
+
+5. PROJECTS SECTION
+Create highly professional project cards with:
+- Project image
+- Project title
+- Description
+- Tech stack badges
+- GitHub button
+- Live demo button
+- Hover tilt effect
+- Reveal animations
+
+Projects:
+1. Customer Churn Prediction
+2. Netflix Data Analysis
+3. Sales Dashboard
+4. HR Analytics Dashboard
+5. AI Dashboard Platform
+
+Each project card should look premium and interactive.
+
+6. EXPERIENCE / JOURNEY TIMELINE
+Create an animated vertical timeline showing:
+- Started Learning Python
+- Learned SQL
+- Built Dashboards
+- Started React Development
+- Built Machine Learning Projects
+
+Add smooth scroll-triggered animations.
+
+7. SERVICES SECTION
+Add cards for:
+- Dashboard Development
+- Data Analysis
+- Frontend Development
+- Automation Projects
+
+8. TESTIMONIAL SECTION
+Create animated testimonial cards with:
+- Client/mentor image
+- Feedback text
+- Smooth carousel animation
+
+9. CONTACT SECTION
+Build a premium contact form using EmailJS:
+- Name
+- Email
+- Message
+- Animated inputs
+- Floating labels
+- Validation
+- Success animation
+
+Also include:
+- GitHub
+- LinkedIn
+- Instagram
+- Gmail
+
+10. FOOTER
+- Quick links
+- Social icons
+- Copyright
+- Back to top button
+- Animated hover effects
+
+ADVANCED ANIMATIONS:
+Use Framer Motion and GSAP extensively:
+- Scroll reveal animations
+- Fade-up animations
+- Scale animations
+- Stagger animations
+- Page transitions
+- Parallax effects
+- Smooth scrolling
+- Text animations
+- Floating effects
+- Mouse tracking effects
+
+ADDITIONAL PREMIUM FEATURES:
+- Dark mode
+- Smooth page transitions
+- Custom animated cursor
+- Animated loading screen
+- SEO optimized
+- Fully responsive
+- Fast loading
+- Modern UI/UX
+- Interactive hover effects
+- Gradient borders
+- Glow effects
+- Glassmorphism cards
+
+FOLDER STRUCTURE:
+
+src/
+ ├── assets/
+ ├── components/
+ ├── pages/
+ ├── animations/
+ ├── styles/
+ ├── data/
+ ├── hooks/
+ ├── App.js
+ └── index.js
+
+Create reusable components for all sections.
+
+CODE REQUIREMENTS:
+- Clean and professional code
+- Component-based architecture
+- Reusable animations
+- Fully responsive design
+- Optimized performance
+- Organized folder structure
+- Modern React best practices
+- Tailwind utility classes
+- Smooth transitions
+- Professional spacing and typography
+
+Make the website look premium like:
+- Apple website
+- Modern SaaS landing page
+- High-end developer portfolio
+- Futuristic dashboard UI
+
+The final website should feel cinematic, premium, modern, interactive, and visually impressive enough to stand out to recruiters and clients.
